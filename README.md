@@ -255,6 +255,12 @@ retriever api 가 메시지를 읽어오지 못 하니 반드시 형식을 맞�
 4. client 에서 등록한 receiver 로 sms message 를 수신하게 되고 이를 사용하여 기능을 완성합니다.
 <br>
 
+# 전체 코드 보러가기
+
+전체 코드는 아래 주소에서 볼 수 있습니다.
+
+- [https://github.com/Linitial/SmsReadingExample](https://github.com/Linitial/SmsReadingExample)
+
 이상으로 포스팅을 마치겠습니다.
 
 감사합니다.
